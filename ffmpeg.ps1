@@ -4,6 +4,7 @@
 
 Disable-UAC
 
+choco uninstall -y ffmpeg
 choco install -y ffmpeg
 
 #--- reenabling critial items ---
